@@ -1,0 +1,5 @@
+C:\Users\Asiri Wijesinghe\Documents\Visual Studio 2010\Projects\StableMarriedCouple\StableMarriedCouple\bin\Debug\StableMarriedCouple.exe
+C:\Users\Asiri Wijesinghe\Documents\Visual Studio 2010\Projects\StableMarriedCouple\StableMarriedCouple\bin\Debug\StableMarriedCouple.pdb
+C:\Users\Asiri Wijesinghe\Documents\Visual Studio 2010\Projects\StableMarriedCouple\StableMarriedCouple\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asiri Wijesinghe\Documents\Visual Studio 2010\Projects\StableMarriedCouple\StableMarriedCouple\obj\x86\Debug\StableMarriedCouple.exe
+C:\Users\Asiri Wijesinghe\Documents\Visual Studio 2010\Projects\StableMarriedCouple\StableMarriedCouple\obj\x86\Debug\StableMarriedCouple.pdb
